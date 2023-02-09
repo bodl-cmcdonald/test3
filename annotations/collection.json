@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://bodl-cmcdonald.github.io/test3/annotations/1c10e147f11e82a9d81dd6eca0cb9e8b.json" ],
+  "otherContent" : [ "https://bodl-cmcdonald.github.io/test3/annotations/1c10e147f11e82a9d81dd6eca0cb9e8b.json", "https://bodl-cmcdonald.github.io/test3/annotations/155b8f35d046284a8b46166aa2b4e475.json" ],
   "@id" : "https://bodl-cmcdonald.github.io/test3/annotations/collection.json",
   "label" : "All annotations loaded in bodl-cmcdonald/test3 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
