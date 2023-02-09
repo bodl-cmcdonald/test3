@@ -1,0 +1,111 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "MS. Douce 280 (fols. 7v-8r)",
+  "metadata" : [ {
+    "@label" : "Shelfmark",
+    "@value" : "Bodleian Library MS. Douce 280"
+  }, {
+    "@label" : "Date Statement:",
+    "@value" : "1596-1633"
+  }, {
+    "@label" : "Language",
+    "@value" : "English"
+  }, {
+    "@label" : "Author",
+    "@value" : "Ramsey, John"
+  } ],
+  "description" : [ {
+    "@value" : "Two images, consisting of an opening within MS. Douce 280, a miscellany written by John Ramsey between 1596-1633.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/cc-by-nc/4.0/",
+  "attribution" : "Photo: © Bodleian Libraries, University of Oxford. Terms of use: CC-BY-NC 4.0.",
+  "sequences" : [ {
+    "@id" : "http://d29e063e-d49e-4faa-955a-c660b4b44079",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://41d09e7d-8c83-4e6b-94bf-2829d5b629ef",
+      "@type" : "sc:Canvas",
+      "label" : "fol. 7v",
+      "height" : 6305,
+      "width" : 5225,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://81ab8dae-94f5-457d-a7e2-4ba3b8103a9b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/300b95a0-c536-40b3-ae8c-2cb620159ac6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/300b95a0-c536-40b3-ae8c-2cb620159ac6",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 6305,
+          "width" : 5225
+        },
+        "on" : "http://41d09e7d-8c83-4e6b-94bf-2829d5b629ef"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed",
+      "@type" : "sc:Canvas",
+      "label" : "fol. 8r",
+      "height" : 6007,
+      "width" : 5139,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4c7860b9-9dc5-49f5-a427-3530e3d3a8b5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/b05a77f0-b3a3-4c54-b088-de9941da28a9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.bodleian.ox.ac.uk/iiif/image/b05a77f0-b3a3-4c54-b088-de9941da28a9",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "png", "webp" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 4000,
+              "maxHeight" : 4000
+            } ]
+          },
+          "height" : 6007,
+          "width" : 5139
+        },
+        "on" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "$YOUR_CANVAS_ID" ]
+  } ]
+}
