@@ -1,0 +1,13 @@
+{
+  "id" : "https://bodl-cmcdonald.github.io/test3/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bodl-cmcdonald/test3 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json",
+    "label" : "MS. Douce 280 (fols. 7v-8r)"
+  } ]
+}
