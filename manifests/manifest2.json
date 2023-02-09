@@ -3,6 +3,11 @@
   "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "MS. Douce 280 (fols. 7v-8r)",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/120649664/28b73e2c9a29a6b41d24e7dde4b9c899/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "@label" : "Shelfmark",
     "@value" : "Bodleian Library MS. Douce 280"
@@ -61,6 +66,11 @@
         },
         "on" : "http://41d09e7d-8c83-4e6b-94bf-2829d5b629ef"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://bodl-cmcdonald.github.io/test3/annotations/1c10e147f11e82a9d81dd6eca0cb9e8b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "fol. 7v annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed",
@@ -92,6 +102,11 @@
           "width" : 5139
         },
         "on" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://bodl-cmcdonald.github.io/test3/annotations/155b8f35d046284a8b46166aa2b4e475.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "fol. 8r annotations"
       } ],
       "related" : ""
     } ]
