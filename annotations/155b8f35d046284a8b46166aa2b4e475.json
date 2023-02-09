@@ -1,0 +1,169 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diary",
+      "@type" : "oa:Tag",
+      "chars" : "diary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1621",
+      "@type" : "oa:Tag",
+      "chars" : "1621"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "birth",
+      "@type" : "oa:Tag",
+      "chars" : "birth"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Winchester, John Paulet, Marquess of, 1598-1675",
+      "@type" : "oa:Tag",
+      "chars" : "Winchester, John Paulet, Marquess of, 1598-1675"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Holderness, John Ramsay, Earl of, 1580?-1626",
+      "@type" : "oa:Tag",
+      "chars" : "Holderness, John Ramsay, Earl of, 1580?-1626"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "It pleased my most mercifull god yᵉ 24ᵗʰ of October 1621 to sende me my first borne sonne &amp; heyre whoe was borne att my house in greate Sᵗ Bartlemewes London, Christened, Jhon, by his godfathers, Jnᵒ: Lord Sᵗ Jnᵒ: Marquess of Whinchester, &amp; Jnᵒ: Lord Ramsey Earle of Holderness; his godmother was yᵉ Ladye Hobert, yᵉ L. cheife Justice of yᵉ Comon pleas his wife.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>It pleased my most mercifull god yᵉ 24ᵗʰ of October 1621 to sende me my first borne sonne &amp; heyre whoe was borne att my house in greate Sᵗ Bartlemewes London, Christened, Jhon, by his godfathers, Jnᵒ: Lord Sᵗ Jnᵒ: Marquess of Whinchester, &amp; Jnᵒ: Lord Ramsey Earle of Holderness; his godmother was yᵉ Ladye Hobert, yᵉ L. cheife Justice of yᵉ Comon pleas his wife.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120649664",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-02-09T10:15:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1675937717398",
+    "dcterms:modified" : "2023-02-09T10:15:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1073,1999,2838,1675"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2927.78299,1999.30811l982.94108,12.36404l-30.9101,1468.22961l-1001.48714,-12.36404v207.09765l-1805.14966,-58.72918l43.27414,-1489.86668l1802.05865,12.36404z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4993d76d-15ba-4b96-bfdf-b0541465aed5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diary",
+      "@type" : "oa:Tag",
+      "chars" : "diary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1633",
+      "@type" : "oa:Tag",
+      "chars" : "1633"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Guiana",
+      "@type" : "oa:Tag",
+      "chars" : "Guiana"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "America",
+      "@type" : "oa:Tag",
+      "chars" : "America"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "In 13 yeares god bleste me wᵗʰ Eight Children &amp; because my life beinge all waise active &amp; not havinge employmeᵗ to my desire I was even torne awaie as it weare from my most deare Spouse (yᵉ joye of my life) for her worth &amp; goodness not to be paralelde, &amp; soe went a noble voyage to Guiana in yᵉ maine continent of America yᵉ 20th of October &middot;1633&middot;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In 13 yeares god bleste me wᵗʰ Eight Children &amp; because my life beinge all waise active &amp; not havinge employmeᵗ to my desire I was even torne awaie as it weare from my most deare Spouse (yᵉ joye of my life) for her worth &amp; goodness not to be paralelde, &amp; soe went a noble voyage to Guiana in yᵉ maine continent of America yᵉ 20th of October &middot;1633&middot;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120649664",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-02-09T10:19:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1675937985158",
+    "dcterms:modified" : "2023-02-09T10:19:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1064,3484,2829,2014"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2905.56935,3483.52568l988.16973,15.0292l-52.60219,1807.26099l-826.60586,-3.7573l7.5146,195.12207l-1938.76647,-26.3011l-18.7865,-1829.80479l1829.80479,37.57299l3.7573,-187.86497z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_86446b45-b7e5-4dc8-b630-d39a760cfc82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diary",
+      "@type" : "oa:Tag",
+      "chars" : "diary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1620",
+      "@type" : "oa:Tag",
+      "chars" : "1620"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "John Ramsey",
+      "@type" : "oa:Tag",
+      "chars" : "John Ramsey"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sir Edmund Bell",
+      "@type" : "oa:Tag",
+      "chars" : "Sir Edmund Bell"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Norfolk",
+      "@type" : "oa:Tag",
+      "chars" : "Norfolk"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "England",
+      "@type" : "oa:Tag",
+      "chars" : "England"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scotland",
+      "@type" : "oa:Tag",
+      "chars" : "Scotland"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The daughter of Sʳ Edmond Bell of Beauprey-hall in Norfolke, to whome I was maried yᵉ 4ᵗʰ october anᵒ 1620 after I had yᵉ yeare before made yᵉ toure of England by goeinge Eastward into Scotland &amp; returninge westwarde home wᶜʰ was yᵉ full periode of my travells yᵗ soe havinge seen other cuntryes I might not be esteemed a stranger in my owne.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The daughter of Sʳ Edmond Bell of Beauprey-hall in Norfolke, to whome I was maried yᵉ 4ᵗʰ october anᵒ 1620 after I had yᵉ yeare before made yᵉ toure of England by goeinge Eastward into Scotland &amp; returninge westwarde home wᶜʰ was yᵉ full periode of my travells yᵗ soe havinge seen other cuntryes I might not be esteemed a stranger in my owne.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120649664",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-02-09T09:47:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1675936054191",
+    "dcterms:modified" : "2023-02-09T09:47:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://c2cb3944-8b48-4876-9acb-e57b6817cf87"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1129,680,2801,1452"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1128.69665,680.47914h2800.95924v1317.15589l-1019.11332,-19.22855v153.82843l-1778.64117,-28.84283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_cd15b9bd-ef09-45d3-a463-e9812ca4ebbe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17b9f6fd-68d0-4636-b015-f43d93e971ed"
+    } ]
+  } ],
+  "@id" : "https://bodl-cmcdonald.github.io/test3/annotations/155b8f35d046284a8b46166aa2b4e475.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
