@@ -1,0 +1,51 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diary",
+      "@type" : "oa:Tag",
+      "chars" : "diary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1618",
+      "@type" : "oa:Tag",
+      "chars" : "1618"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "John Ramsey",
+      "@type" : "oa:Tag",
+      "chars" : "John Ramsey"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "In Anᵒ: 1618. in a single Combat after I had given my Enimye his life, by an unhappye blowe I loste yᵉ use of my right hande wᶜʰ makes me write now soe ill wᵗʰ yᵉ lefte, but to recompence soe greate a losse my good god blest me wᵗʰ a most happye hopefull spouse, yᵉ love of my life &amp; comfort of my dayes, La Bella mia dolce cuore.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In Anᵒ: 1618. in a single Combat after I had given my Enimye his life, by an unhappye blowe I loste yᵉ use of my right hande wᶜʰ makes me write now soe ill wᵗʰ yᵉ lefte, but to recompence soe greate a losse my good god blest me wᵗʰ a most happye hopefull spouse, yᵉ love of my life &amp; comfort of my dayes, <em>La Bella mia dolce cuore</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120649664",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-02-09T10:21:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1675938109045",
+    "dcterms:modified" : "2023-02-09T10:21:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bodl-cmcdonald.github.io/test3/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2234,3960,2672,1682"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4719.51128,3964.39545l186.87461,-4.67187v1471.63759l-920.35748,-4.67187l-4.67187,214.90581l-1709.90272,-32.70306l-37.37492,-1364.18469l2480.76051,-102.78104z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_da6eb980-11b2-4de2-b81c-f823a35d4f18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://41d09e7d-8c83-4e6b-94bf-2829d5b629ef"
+    } ]
+  } ],
+  "@id" : "https://bodl-cmcdonald.github.io/test3/annotations/1c10e147f11e82a9d81dd6eca0cb9e8b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
